@@ -9,6 +9,6 @@ depends          'firewall', '>= 2.0'
 
 supports 'ubuntu'
 
-source_url 'https://github.com/chef-cookbooks/ufw'
-issues_url 'https://github.com/chef-cookbooks/ufw/issues'
+source_url 'https://github.com/btazi/ufw'
+issues_url 'https://github.com/btazi/ufw/issues'
 chef_version '>= 12.1'
